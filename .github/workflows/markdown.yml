@@ -1,0 +1,22 @@
+name: Markdown validation
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reject accidental line-number prefixes
+        run: '! grep -RInE "^\s*[0-9]+\|" README.md docs'
+      - name: Verify documentation assets
+        run: |
+          test -f docs/README.en.md
+          test -f docs/README.uk.md
+          test -f docs/README.zh-CN.md
+          test -f docs/README.he.md
+          test -f assets/self-correcting-link-parser-cover.png

@@ -1,0 +1,24 @@
+# Secrets and environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# Client, crawler and network data
+queries/
+exports/
+logs/
+data/
+proxies/
+cache/
+*.sqlite
+*.db
+
+# Local tooling
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+.venv/
