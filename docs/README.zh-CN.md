@@ -19,9 +19,8 @@
 7. “自校正”指质量监控、在预先批准的提取配置之间切换或转交人工审查，而不是绕过任何保护。
 8. 导出带来源和筛选日志的清理后 CSV、JSON 或表格。
 
-## 价格与联系
+## 联系方式
 
-- 当前报价：**$50**。
 - Telegram: [@TheBotsLab](https://t.me/TheBotsLab)
 - E-mail: [BotsLab@proton.me](mailto:BotsLab@proton.me)
 

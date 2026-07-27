@@ -23,9 +23,8 @@ A commercial workflow for collecting, normalising, validating, and exporting pub
 
 A repeatable, auditable set of public links with fewer duplicates and clearer provenance for research or human review.
 
-## Price and contact
+## Contact
 
-- Current offer price: **$50**.
 - Telegram: [@TheBotsLab](https://t.me/TheBotsLab)
 - Email: [BotsLab@proton.me](mailto:BotsLab@proton.me)
 
