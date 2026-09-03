@@ -7,7 +7,7 @@
 <p align="center"><strong>Сбор, нормализация и проверка публично доступных ссылок из поисковой выдачи для исследований, каталогизации и аналитики.</strong></p>
 
 <p align="center">
-  <a href="docs/README.en.md">English</a> ·
+  <a href="docs/README.en.md">English</a> · · <a href="docs/README.ro.md">Română</a>
   <a href="docs/README.uk.md">Українська</a> ·
   <a href="docs/README.zh-CN.md">中文</a> ·
   <a href="docs/README.he.md">עברית</a>
